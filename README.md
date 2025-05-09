@@ -27,7 +27,8 @@ Lot of entries show the attacker's IP, which is ``10.10.249.191``.
 ![attackers IP](https://github.com/L0rdB43lish/THM-AoC---Log-Analysis/blob/61d3b06eca4990d4c35c564135a7414479bbed58/Pasted%20image%2020250509000047.png)
 
 5 - What is the name of the important list that the attacker stole from Santa?  
-When I searched for "list" there were a lot of entries, so I tried searching for ".txt". Which still gave me a lot of entries but I managed to find the file.  
+When I searched for "list" there were a lot of entries, so I tried searching for ".txt".
+Which still gave me a lot of entries but I managed to find the file.  
 ![santas file](https://github.com/L0rdB43lish/THM-AoC---Log-Analysis/blob/61d3b06eca4990d4c35c564135a7414479bbed58/Pasted%20image%2020250509002214.png)
 
 6 - Look through the log files for the flag. The format of the flag is: THM{}  
