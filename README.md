@@ -1,7 +1,8 @@
 # Advent of Cyber 2022 - Day 2 - Log analysis
 **Summary:** Santa's SOC has noticed one of their web servers, [santagift.shop](http://santagift.shop/) has been hijacked by an APT group. The task is to analyse the log files captured by the web server to understand what is happening and track down the APT group.
 
-**Overview:** The challenge focused on detecting malicious activity through log analysis. As a Security Analyst, I was tasked with investigating an incident on Santa's website ([santagift.shop](http://santagift.shop/)) by reviewing web server logs to uncover any suspicious behaviour and identify the attacker's actions.
+## Overview
+The challenge focused on detecting malicious activity through log analysis. As a Security Analyst, I was tasked with investigating an incident on Santa's website ([santagift.shop](http://santagift.shop/)) by reviewing web server logs to uncover any suspicious behaviour and identify the attacker's actions.
 
 **Objectives:**
 - analyse web server logs to identify malicious activities
@@ -19,7 +20,7 @@ What is the name of this log file?**
 "webserver.log"
 
 **3 - On what day was Santa's naughty and nice list stolen?**  
-Looking through the "webserver.log" file, we see various events that happened on Friday, 18/Nov/2022.  
+Looking through the "webserver.log" file, we see various events that happened on Friday, 18th November 2022.  
 
 ![event day](https://github.com/L0rdB43lish/THM-Log-Analysis/blob/361c406dc18119cc3470c3b78ede3c9ce141e752/Captura%20de%20tela%202025-05-09%20021125.png) 
 
